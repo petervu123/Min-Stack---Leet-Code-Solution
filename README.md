@@ -32,6 +32,4 @@ public:
         return s2.top();
     }
 };
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
+
